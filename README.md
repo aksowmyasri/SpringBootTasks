@@ -1,0 +1,1 @@
+edited all the hardcoded values
